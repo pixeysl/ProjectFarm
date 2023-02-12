@@ -76,8 +76,16 @@ DerivedDataCache/*
 # Extras
 .vscode
 Content/__External*
-Content/Characters
-Content/Collections
-Content/Developers
-Content/LevelPrototyping
-Content/MetaHumans
+Content/Characters/*
+Content/Collections/*
+Content/Developers/*
+Content/LevelPrototyping/*
+Content/MetaHumans/Common/*
+Content/MetaHumans/allie_max_base2/Body/*
+Content/MetaHumans/allie_max_base2/Face/*
+Content/MetaHumans/allie_max_base2/Female/*
+Content/MetaHumans/allie_max_base2/FemaleHair/*
+Content/MetaHumans/allie_max_base2/Materials/*
+Content/MetaHumans/allie_max_base2/Previews/*
+Content/MetaHumans/allie_max_base2/SourceAssets/*
+Content/MetaHumans/*.txt
